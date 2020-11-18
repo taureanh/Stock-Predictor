@@ -38,6 +38,7 @@ d3.csv("../static/js/Total_CSCO.csv",function(stock_data) {
     x: future_dates,
     y: future_prices,
     type: "line",
+    name: "CSCO Future Predicted Close"
   };
   console.log(predicted_close)
 

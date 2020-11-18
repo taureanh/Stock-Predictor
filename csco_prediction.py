@@ -4,6 +4,7 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import os
 import csv
+import _tkinter
 import tkinter as tk 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 cwd = os.getcwd()

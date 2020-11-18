@@ -1,2 +1,1 @@
-# Stock-Predictor
-Deployment of Stock Predictor
+# Predict_Stocks

@@ -1,6 +1,6 @@
 // Trace1 for the Greek Data
 
-d3.csv("../static/js/Total_EDU.csv",function(stock_data) {
+d3.csv("static/js/Total_EDU.csv",function(stock_data) {
   console.log(stock_data)
 
   dates = []

@@ -20,12 +20,12 @@ Python.
 
 Visualizations made:\
 Interactive D3 graphs\
-HTML slideshow gallery\
+HTML slideshow gallery
 
 
 
-Data Sources: https://finance.yahoo.com\
-              https://www.quandl.com/.
+Data Sources: https://finance.yahoo.com \
+              https://www.quandl.com.
 
 Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to\
              by Heroku. It works locally through our flask app.

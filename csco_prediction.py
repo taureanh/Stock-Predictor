@@ -10,7 +10,7 @@ cwd = os.getcwd()
 print(cwd)
 
 def csco1():
-    df = pd.read_csv('Resources/CSCO.csv')
+    df = pd.read_csv('Stock_Predictor/Resources/CSCO.csv')
     print(df)
 
 

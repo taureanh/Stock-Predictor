@@ -27,5 +27,5 @@ HTML slideshow gallery
 Data Sources: https://finance.yahoo.com \
               https://www.quandl.com.
 
-Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to\
-             by Heroku. It works locally through our flask app.
+Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku\ 
+It works locally through our flask app.

@@ -7,8 +7,7 @@
 
 The objective of this project was to apply Machine Learning models to help in prediciting future stock prices.\
 We used two stocks in particular, New Oriental Education & Technology Group Inc. (EDU) and Cisco Systems, Inc. (CSCO).\
-Using a Long short-term memory (LSTM) and Multivariate regression model, training and testing\
-we were able to predict stock prices
+Using a Long short-term memory (LSTM) and Multivariate regression model, after training and testing, we were able to predict stock prices
 
 
 Programs used:\

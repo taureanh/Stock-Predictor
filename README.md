@@ -2,10 +2,14 @@
 
 # Machine Learning: Stock Prices
 
-# Project deployed on AWS at https://stock-predictor1.herokuapp.com/
+# Project deployed at https://stock-predictor1.herokuapp.com/
 
 
-The objective of this project was to find particular data on a topic of interest and to use different web development software to create a variety of visualizations that will tell a story through using data in our database on Renewable Energy Resource Production in the US.
+The objective of this project was to apply Machine Learning models to help in prediciting future stock prices.\
+We used two stocks in particular, New Oriental Education & Technology Group Inc. (EDU) and Cisco Systems, Inc. (CSCO).\
+Using a Long short-term memory (LSTM) and Multivariate regression model, training and testing\
+we were able to predict stock prices
+
 
 Programs used:\
 Javascript\
@@ -14,11 +18,14 @@ Pandas\
 Jupyter Notebook\
 Python.
 
-Visualizations made:
-Interactive graphs,
-html slideshow gallery,
-stock price predictor interface with tkinter.
+Visualizations made:\
+Interactive D3 graphs\
+HTML slideshow gallery\
 
 
-Data Sources: https://finance.yahoo.com/,
+
+Data Sources: https://finance.yahoo.com\
               https://www.quandl.com/.
+
+Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to\
+             by Heroku. It works locally through our flask app.

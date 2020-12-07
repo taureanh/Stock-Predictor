@@ -12,15 +12,10 @@ def welcome():
 
     return render_template("index.html")
 
-@app.route("/CSCO") 
+@app.route("/results") 
 def CSCO():
 
-    return render_template("CSCO.html")
-
-@app.route("/EDU") 
-def EDU():
-
-    return render_template("EDU.html")
+    return render_template("results.html")
 
 @app.route("/LSTM") 
 def limitations():

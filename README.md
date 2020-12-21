@@ -40,7 +40,7 @@ Stock Predictor Interface
 
 ## Requirements to run the app on the local machine
 
-* Download entire folder
+* Download entire folder from https://github.com/taureanh/Tkinter-Interface
 * Run app.py
 * Access at local host http://127.0.0.1:5000/
 

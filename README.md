@@ -20,7 +20,13 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 
 ## Visualizations made:
 * Interactive D3 graphs
+
+![](static/images/pic1.png)
+
 * HTML slideshow gallery
+
+![](static/images/pic2.png)
+
 
 
 

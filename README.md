@@ -32,8 +32,6 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 * https://finance.yahoo.com 
 * https://www.quandl.com.
 
-Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku\ 
-It works locally through our flask app.
 
 ## Requirements to run the app on the local machine
 
@@ -44,3 +42,8 @@ It works locally through our flask app.
 
 ## Remote Access
 * https://stock-predictor1.herokuapp.com/
+
+
+## Please Note: 
+In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku
+It runs locally through our app.py.

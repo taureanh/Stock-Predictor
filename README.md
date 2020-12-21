@@ -15,6 +15,7 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 * Pandas
 * Jupyter Notebook
 * Python.
+* Tkinter
 
 ## Visualizations made:
 * Interactive D3 graphs
@@ -25,6 +26,10 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 
 ![](static/images/pic2.png)
 
+
+## Additional Components
+Stock Predictor Interface
+![](static/images/pic3.png)
 
 
 
@@ -45,5 +50,5 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 
 
 ## Please Note: 
-In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku
+In our deployed website  we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku
 It runs locally through our app.py.

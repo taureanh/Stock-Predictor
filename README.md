@@ -2,8 +2,6 @@
 
 # Machine Learning: Stock Prices
 
-# Project deployed at https://stock-predictor1.herokuapp.com/
-
 ## Introduction
 
 The objective of this project was to apply Machine Learning models to help in prediciting future stock prices.\
@@ -36,3 +34,13 @@ Using a Long short-term memory (LSTM) and Multivariate regression model, after t
 
 Please Note: In our deployed website we had to remove the predict tab functionality due to the module tkinter not able to be deployed by Heroku\ 
 It works locally through our flask app.
+
+## Requirements to run the app on the local machine
+
+* Download entire folder
+* Run app.py
+* Access at local host http://127.0.0.1:5000/
+
+
+## Remote Access
+* https://stock-predictor1.herokuapp.com/
